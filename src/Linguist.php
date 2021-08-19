@@ -21,14 +21,14 @@ class Linguist
      *
      * @var array
      */
-    public array $extensions;
+    public array $extensions = [];
 
     /**
      * Exclude
      *
      * @var array
      */
-    public array $excludedWords;
+    public array $excludedWords = [];
 
     /**
      * Constructor
