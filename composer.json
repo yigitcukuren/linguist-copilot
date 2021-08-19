@@ -1,0 +1,17 @@
+{
+    "name": "yigit/linguist",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yigit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yigit Cukuren",
+            "email": "yigitcukuren@jotform.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

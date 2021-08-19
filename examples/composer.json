@@ -1,0 +1,14 @@
+{
+  "name": "yigit/linguist-example",
+  "type": "library",
+  "require": {
+    "larapack/dd": "^1.1",
+    "yigit/linguist": "dev-master"
+  },
+  "repositories": [
+    {
+        "type": "path",
+        "url": "../"
+    }
+  ]
+}
